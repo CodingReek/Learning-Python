@@ -1,0 +1,6 @@
+name = input('Write your own story')
+name=name.replace('fucking','*******')
+name=name.replace('fucker','*****')
+name=name.replace('fuck','*****')
+name=name.capitalize()
+print(name)
